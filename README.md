@@ -8,4 +8,8 @@ Project was developed in Fall 2019 Semester. It was Artificial Intelligence Cour
 
 Output Screenshots GIF
 
-![Software Demo GIF](https://github.com/MrTee99/QuickNews-WindowsApp/blob/main/Screen%20Shots%20and%20Demo%20Video/Demo%20GIF/SoftwareDemo_GIF.gif)
+![BFS Output Screenshot](https://github.com/MrTee99/Pancake-Problem-Algorithm/blob/main/Output%20Screenshots/1.JPG)
+![DFS Output Screenshot](https://github.com/MrTee99/Pancake-Problem-Algorithm/blob/main/Output%20Screenshots/2.JPG)
+![UCS Output Screenshot](https://github.com/MrTee99/Pancake-Problem-Algorithm/blob/main/Output%20Screenshots/3.JPG)
+![Greedy Search Output Screenshot](https://github.com/MrTee99/Pancake-Problem-Algorithm/blob/main/Output%20Screenshots/4.JPG)
+![A* Search Output Screenshot](https://github.com/MrTee99/Pancake-Problem-Algorithm/blob/main/Output%20Screenshots/5.JPG)
